@@ -14,7 +14,7 @@ This project is a basic TaskList project with React Hooks including Context API.
 > Clone the repository to your local machine
 
 ```sh
-$ --
+$ --https://github.com/BatuhanYilmazzz/NoteList.git
 ```
 
 or just open from
