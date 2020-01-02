@@ -1,6 +1,6 @@
 # TaskList Project
 
-This project is a basic TaskList project with React Hooks including Context API.
+This project is a basic TaskList project with React Hooks including Context API.You can add your task or todo list in this project.I hope you like it.
 
 ## Built With
 
@@ -17,7 +17,7 @@ This project is a basic TaskList project with React Hooks including Context API.
 $ --https://github.com/BatuhanYilmazzz/NoteList.git
 ```
 
-or just open from
+and npm run start.
 
 ## Author
 
